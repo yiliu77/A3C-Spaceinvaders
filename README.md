@@ -1,2 +1,2 @@
 # A3C-Spaceinvaders
-Currently under development
+Asynchronized actor critic algorithm for spaceinvaders (reinforcement learning)
